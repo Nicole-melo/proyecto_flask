@@ -1,1 +1,4 @@
-base.html
+templates/base.html
+templates/inicio.html
+templates/servicios.html
+templates.contacto.html
