@@ -11,9 +11,6 @@ Proyecto_Flask/
 │ ├── inicio.html
 │ ├── servicios.html
 │ ├── contacto.html
-│ ├── header.html
-│ ├── navbar.html
-│ └── footer.html
 │
 ├── static/
 │ └── css/
@@ -22,13 +19,7 @@ Proyecto_Flask/
 
 ---
 
-## ⚙️ Cómo ejecutar el proyecto
-
-1. Clonar este repositorio:
-   ```bash
-   git clone https://github.com/Nicole-melo/proyecto_flask.git
-   cd proyecto_flask
-
+Cómo ejecutar el proyecto
 
 Instalar dependencias:
 
@@ -43,6 +34,7 @@ python app.py
 Abrir en el navegador:
 
 http://127.0.0.1:5000
+
 
 🚀 Funcionalidades
 
